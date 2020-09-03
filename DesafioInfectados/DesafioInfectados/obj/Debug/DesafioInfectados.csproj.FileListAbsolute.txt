@@ -1,0 +1,7 @@
+C:\Users\paula.heller\source\repos\DesafioInfectados\DesafioInfectados\obj\Debug\DesafioInfectados.csprojAssemblyReference.cache
+C:\Users\paula.heller\source\repos\DesafioInfectados\DesafioInfectados\obj\Debug\DesafioInfectados.csproj.CoreCompileInputs.cache
+C:\Users\paula.heller\source\repos\DesafioInfectados\DesafioInfectados\bin\Debug\DesafioInfectados.exe.config
+C:\Users\paula.heller\source\repos\DesafioInfectados\DesafioInfectados\bin\Debug\DesafioInfectados.exe
+C:\Users\paula.heller\source\repos\DesafioInfectados\DesafioInfectados\bin\Debug\DesafioInfectados.pdb
+C:\Users\paula.heller\source\repos\DesafioInfectados\DesafioInfectados\obj\Debug\DesafioInfectados.exe
+C:\Users\paula.heller\source\repos\DesafioInfectados\DesafioInfectados\obj\Debug\DesafioInfectados.pdb
